@@ -1,0 +1,122 @@
+.fl1 li {
+    display: inline-block;
+    background-color: cornsilk;
+    font-size: 32px;
+    margin: 25px 17px ;
+}
+li:hover {
+    background-color: gray ;    
+}
+.fl1 li a {
+    text-decoration: none;
+}
+
+.header {
+    justify-content: space-between;
+    display: flex;  
+}
+img {
+    width: 260px;
+    height: 265px;
+}
+.header {
+    padding: 15px 30px;
+}
+body {
+    background-color: ivory;
+}
+.bg {
+    font-size: 27px;
+    text-align: center;
+    color: rgb(122, 233, 122);
+}
+#home {
+    background-image: url(https://i.pinimg.com/originals/33/0d/8f/330d8f14b26354684148e950dbbb9761.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+    margin-top: 15px;
+}
+.textm {
+    font-size: 75px;
+    color: lightseagreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 35px;
+}
+h2 {
+    margin: 5px 35px;
+    font-size: 25px;
+    color: mediumpurple;
+}
+.tac {
+    text-align: center;
+    font-size: 35px;
+    color: blue;
+}
+#about {
+   display: block;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-bottom: 50px;
+}
+.tc {
+    font-size: 22px;
+    color: rgb(43, 85, 43);
+    margin-left: 15px;
+}
+.subject {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(146, 94, 231);
+}
+.lv {
+    text-align: center;
+    color: rgb(64, 64, 221);
+    font-size: 25px;
+}
+li {
+    text-align: center;
+    color: rgb(73, 160, 163);
+}
+.infocard {
+    display: flex;
+    flex-wrap: wrap;
+}
+.card {
+   
+    height: 50px ;
+    flex: 0 0 33.33333333%;
+    max-width: 33.33333333%;
+    height: 650px;
+}
+.item {
+    max-width: 100%;
+    background-color: #fdcf76;
+    height: 600px;
+    margin: 10px 5px;
+}   
+.khoa {
+    width:100% ;
+    height: 450px;    
+}
+.khoap {
+    text-align: center;
+    color: maroon;
+    font-size: 25px;
+}
+.center {
+    text-align: center;
+    color: mediumblue;
+}
+.cenbl {
+    text-align: center;
+    font-size: 25px;
+    color: darkred;
+}
+.footer {
+    background-color: dimgray;
+    text-align: center;
+}
+
